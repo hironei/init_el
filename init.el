@@ -1,5 +1,4 @@
 ;;; -*- mode: emacs-lisp; coding: sjis-dos; indent-tabs-mode: nil -*-
-(load-file "c:/home/ya-hirose/.emacs.d/elpa/initchart-0.1.1/initchart.el")
 (initchart-record-execution-time-of load file)
 (initchart-record-execution-time-of require feature)
 
